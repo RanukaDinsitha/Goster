@@ -1,2 +1,2 @@
 # JavaScript2Minify
-A fast JavaScript minifier.
+[https://google.com]
