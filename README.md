@@ -1,2 +1,3 @@
-# JavaScript2Minify
-[https://google.com]
+# Goster a Platformer made with GO!
+
+
